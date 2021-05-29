@@ -12,6 +12,14 @@ public class Advent {
     public boolean isGameOver;
     public List<List<Map<String,Object>>> map = null;
 
+    public void printYourDiary(){
+
+    }
+
+    public void nextRound(){
+
+    }
+
     public void init(){
         isAdvent = false;
         isGameOver = false;
